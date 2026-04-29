@@ -670,6 +670,6 @@ while you're still iterating.
 
 MIT -- see [LICENSE](LICENSE).
 
-The Husk submitter targets the
-[HuskStandalone](https://github.com/pixel-ninja/HuskStandaloneSubmitter)
-Deadline plugin by pixel-ninja, licensed under GPL-3.0.
+Houdini-side Deadline submitters (Husk USD render, USD export) live in
+the companion repo
+[`houdini-deadline-toolbox`](https://github.com/Gegenschuss/houdini-deadline-toolbox).

@@ -1,7 +1,6 @@
 # Local secrets (not published)
 config/secrets.sh
 remote_menu/config/secrets.sh
-houdini/secrets.py
 
 # Claude Code local state
 .claude/
